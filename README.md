@@ -1,6 +1,4 @@
 # devynchew.github.io
 
-An e-portfolio website I made to showcase me, my skills and my projects.
+The first e-portfolio website that I made to showcase me, my skills and my projects. This was done with plain HTML, CSS and Bootstrap 4.
 
-## Moving forward
-1. Fix spacing between columns for projects
